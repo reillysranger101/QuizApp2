@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1">¿El Sol es una enana roja?</string>
+    <string name="question_2">¿El símbolo atómico del oro es Au?</string>
+    <string name="question_3">¿HTML es un lenguaje de programación?</string>
+    <string name="question_4">¿Las ballenas son mamíferos?</string>
+    <string name="question_5">¿Los humanos pertenecen al reino animal?</string>
+    <string name="btrue">Verdadero</string>
+    <string name="bfalse">Falso</string>
+    <string name="next">Siguiente</string>
+</resources>
